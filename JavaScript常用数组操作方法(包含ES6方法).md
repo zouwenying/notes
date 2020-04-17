@@ -1,4 +1,4 @@
-#JavaScript常用数组操作方法(包含ES6方法)
+# JavaScript常用数组操作方法(包含ES6方法)
 
 一、concat()
 
